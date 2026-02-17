@@ -12,7 +12,7 @@ The library gives you finished nodes, so you can focus on alignments and proport
 
 ## About
 
-This font is published by the FontBob team.
+This data is published by the FontBob team.
 
 FontBob is a font editor focused on making type design more accessible.
 
