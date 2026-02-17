@@ -2,11 +2,13 @@
 
 Fonts often share the same node structure, but with different alignments.
 
-The library gives you the nodes, so you can focus only on alignments and proportions.
+The library gives you finished nodes, so you can focus on alignments and proportions.
 
 <a href="https://fontbob.com/font/d0c2c629-3cdc-4f18-909d-43583962ed0d" target="_blank"><img height="45px" src="https://fontbob.com/images/remix.svg" alt="Remix" /></a>
 
-<img width="1510" height="981" alt="image" src="https://github.com/user-attachments/assets/47d710f6-090f-44e6-beb2-c40681598123" />
+## Example data
+
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/4f029d20-31f6-4045-a38a-edd2fd1d0445" />
 
 ## About
 
